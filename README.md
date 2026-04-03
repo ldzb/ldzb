@@ -37,8 +37,9 @@
 <br>
 
 ## 📊 GitHub Stats
-![Byungcheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldzb&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldzb&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ldzb&theme=dark)
+
+
 <br>
 
 ---
